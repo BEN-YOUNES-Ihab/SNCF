@@ -2,3 +2,23 @@
   h1 {
     color: blue;
   }
+  body{
+    padding: 2rem 0rem;
+  }
+/* Container needed to position the overlay. Adjust the width as needed */
+.navbar{
+  height: 80px;
+  background-color: white;
+}
+.image {
+  width: 80px;
+}
+#customIcon{
+  font-size: 40px;
+  color: #0088ce;
+}
+#customFont{
+  color: #0088ce;
+  font-weight: 500;
+
+}
