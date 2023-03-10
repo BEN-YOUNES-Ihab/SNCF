@@ -1,3 +1,4 @@
+This is a simple web site for a DevOps project
 # SNCF
 Rappels pour la gestion du git:
 
